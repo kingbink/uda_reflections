@@ -1,0 +1,6 @@
+So far this is all basic stuff, but I'm looking forward to real version control and actually making a difference with git and github.
+The course says diff doesn't tell where in the line it's different, but it does by default.  They just like the -u option, which is why it doesn't show the row and column.
+
+Checking out how to view this in komodo edit.  This is not too bad for typing.  But I guesss there is no spellcheck.
+
+And having version control makes a lot of sense because not all updates are correct and many times I break as much as I fix on the first attempt to enhance my code.
